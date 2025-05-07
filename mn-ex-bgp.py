@@ -81,9 +81,6 @@ def net_test(net):
 
 def iptables(net):
 	net['r1'].cmdPrint('sh r1_rules.sh')
-	net['r2'].cmdPrint('sh r2_rules.sh')
-	net['srv1'].cmdPrint('/etc/init.d/apache2 start')
-
 def run():
 	topo = NetTopo()
 	net = Mininet(topo=topo, link=TCLink, controller=Controller)
