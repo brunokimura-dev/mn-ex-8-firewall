@@ -1,0 +1,243 @@
+17:32:16.909144 IP6 (hlim 1, next-header Options (0) payload length: 36) :: > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ffa7:6ff to_ex { }]
+17:32:16.947386 IP6 (hlim 1, next-header Options (0) payload length: 36) :: > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ff0d:1a3a to_ex { }]
+17:32:17.243084 IP6 (hlim 1, next-header Options (0) payload length: 36) fe80::ace3:96ff:fe0d:1a3a > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ff0d:1a3a to_ex { }]
+17:32:17.249413 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::ace3:96ff:fe0d:1a3a > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): ae:e3:96:0d:1a:3a
+	    0x0000:  aee3 960d 1a3a
+17:32:17.296316 IP6 (hlim 1, next-header Options (0) payload length: 76) fe80::e01c:e6ff:fe05:b6e7 > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 3 group record(s) [gaddr ff02::1:ff00:0 to_ex { }] [gaddr ff02::1:ff05:b6e7 to_ex { }] [gaddr ff02::2 to_ex { }]
+17:32:17.305133 IP6 (hlim 1, next-header Options (0) payload length: 36) fe80::e01c:e6ff:fe05:b6e7 > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ff00:0 to_ex { }]
+17:32:17.321133 IP6 (hlim 1, next-header Options (0) payload length: 76) fe80::e01c:e6ff:fe05:b6e7 > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 3 group record(s) [gaddr ff02::1:ff00:0 to_ex { }] [gaddr ff02::1:ff05:b6e7 to_ex { }] [gaddr ff02::2 to_ex { }]
+17:32:17.347958 IP6 (hlim 1, next-header Options (0) payload length: 36) fe80::ace3:96ff:fe0d:1a3a > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ff0d:1a3a to_ex { }]
+17:32:17.549188 IP6 (hlim 1, next-header Options (0) payload length: 36) fe80::8c6c:e3ff:fea7:6ff > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ffa7:6ff to_ex { }]
+17:32:17.549225 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::8c6c:e3ff:fea7:6ff > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): 8e:6c:e3:a7:06:ff
+	    0x0000:  8e6c e3a7 06ff
+17:32:17.623878 IP6 (hlim 1, next-header Options (0) payload length: 36) fe80::c866:62ff:fec8:9a6b > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ffc8:9a6b to_ex { }]
+17:32:17.631238 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::c866:62ff:fec8:9a6b > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): ca:66:62:c8:9a:6b
+	    0x0000:  ca66 62c8 9a6b
+17:32:17.649134 IP6 (hlim 1, next-header Options (0) payload length: 36) fe80::e01c:e6ff:fe05:b6e7 > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ff00:0 to_ex { }]
+17:32:17.744972 IP6 (hlim 1, next-header Options (0) payload length: 36) fe80::c866:62ff:fec8:9a6b > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ffc8:9a6b to_ex { }]
+17:32:18.093536 IP6 (hlim 1, next-header Options (0) payload length: 36) fe80::8c6c:e3ff:fea7:6ff > ff02::16: HBH (rtalert: 0x0000) (padn) [icmp6 sum ok] ICMP6, multicast listener report v2, 1 group record(s) [gaddr ff02::1:ffa7:6ff to_ex { }]
+17:32:21.485157 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::8c6c:e3ff:fea7:6ff > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): 8e:6c:e3:a7:06:ff
+	    0x0000:  8e6c e3a7 06ff
+17:32:21.505522 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::c866:62ff:fec8:9a6b > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): ca:66:62:c8:9a:6b
+	    0x0000:  ca66 62c8 9a6b
+17:32:21.511005 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::ace3:96ff:fe0d:1a3a > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): ae:e3:96:0d:1a:3a
+	    0x0000:  aee3 960d 1a3a
+17:32:28.909334 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::8c6c:e3ff:fea7:6ff > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): 8e:6c:e3:a7:06:ff
+	    0x0000:  8e6c e3a7 06ff
+17:32:28.916199 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::c866:62ff:fec8:9a6b > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): ca:66:62:c8:9a:6b
+	    0x0000:  ca66 62c8 9a6b
+17:32:29.686701 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::ace3:96ff:fe0d:1a3a > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): ae:e3:96:0d:1a:3a
+	    0x0000:  aee3 960d 1a3a
+17:32:36.205174 ARP, Ethernet (len 6), IPv4 (len 4), Request who-has 200.131.132.20 tell 200.131.132.1, length 28
+17:32:43.313371 ARP, Ethernet (len 6), IPv4 (len 4), Request who-has 200.131.132.10 tell 200.131.132.1, length 28
+17:32:43.313398 ARP, Ethernet (len 6), IPv4 (len 4), Reply 200.131.132.10 is-at 8e:6c:e3:a7:06:ff, length 28
+17:32:43.325595 IP (tos 0x0, ttl 62, id 25375, offset 0, flags [DF], proto TCP (6), length 60)
+    143.107.231.1.48508 > 200.131.132.10.80: Flags [S], cksum 0xc8c0 (correct), seq 4146876339, win 42340, options [mss 1460,sackOK,TS val 2162856262 ecr 0,nop,wscale 9], length 0
+17:32:43.325616 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    200.131.132.10.80 > 143.107.231.1.48508: Flags [S.], cksum 0xc329 (incorrect -> 0xba88), seq 3841357683, ack 4146876340, win 43440, options [mss 1460,sackOK,TS val 3832858875 ecr 2162856262,nop,wscale 9], length 0
+17:32:43.337776 IP (tos 0x0, ttl 62, id 25376, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.48508 > 200.131.132.10.80: Flags [.], cksum 0x9291 (correct), seq 1, ack 1, win 83, options [nop,nop,TS val 2162856297 ecr 3832858875], length 0
+17:32:43.338524 IP (tos 0x0, ttl 62, id 25377, offset 0, flags [DF], proto TCP (6), length 312)
+    143.107.231.1.48508 > 200.131.132.10.80: Flags [P.], cksum 0xc425 (incorrect -> 0xfdee), seq 1:261, ack 1, win 83, options [nop,nop,TS val 2162856299 ecr 3832858875], length 260: HTTP, length: 260
+	GET / HTTP/1.0
+	Host: 200.131.132.15
+	Accept: text/html, text/plain, text/sgml, text/css, application/xhtml+xml, */*;q=0.01
+	Accept-Encoding: gzip, compress, bzip2
+	Accept-Language: en
+	User-Agent: Lynx/2.8.9dev.16 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.5.17
+	
+17:32:43.338533 IP (tos 0x0, ttl 64, id 14478, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.48508: Flags [.], cksum 0xc321 (incorrect -> 0x917c), seq 1, ack 261, win 85, options [nop,nop,TS val 3832858888 ecr 2162856299], length 0
+17:32:43.342197 IP (tos 0x0, ttl 64, id 14479, offset 0, flags [DF], proto TCP (6), length 236)
+    200.131.132.10.80 > 143.107.231.1.48508: Flags [P.], cksum 0xc3d9 (incorrect -> 0x350f), seq 1:185, ack 261, win 85, options [nop,nop,TS val 3832858891 ecr 2162856299], length 184: HTTP, length: 184
+	HTTP/1.0 200 OK
+	Server: SimpleHTTP/0.6 Python/3.6.9
+	Date: Fri, 09 May 2025 17:32:43 GMT
+	Content-type: text/html
+	Content-Length: 24
+	Last-Modified: Fri, 09 May 2025 15:52:38 GMT
+	
+17:32:43.342262 IP (tos 0x0, ttl 62, id 25378, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.48508 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x90c0), seq 261, ack 185, win 83, options [nop,nop,TS val 2162856302 ecr 3832858891], length 0
+17:32:43.343076 IP (tos 0x0, ttl 64, id 14480, offset 0, flags [DF], proto TCP (6), length 76)
+    200.131.132.10.80 > 143.107.231.1.48508: Flags [P.], cksum 0xc339 (incorrect -> 0xcebe), seq 185:209, ack 261, win 85, options [nop,nop,TS val 3832858892 ecr 2162856302], length 24: HTTP
+17:32:43.343130 IP (tos 0x0, ttl 62, id 25379, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.48508 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x90a6), seq 261, ack 209, win 83, options [nop,nop,TS val 2162856303 ecr 3832858892], length 0
+17:32:43.343634 IP (tos 0x0, ttl 62, id 25380, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.48508 > 200.131.132.10.80: Flags [F.], cksum 0xc321 (incorrect -> 0x90a4), seq 261, ack 209, win 83, options [nop,nop,TS val 2162856304 ecr 3832858892], length 0
+17:32:43.343975 IP (tos 0x0, ttl 64, id 14481, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.48508: Flags [F.], cksum 0xc321 (incorrect -> 0x90a0), seq 209, ack 262, win 85, options [nop,nop,TS val 3832858893 ecr 2162856304], length 0
+17:32:43.344029 IP (tos 0x0, ttl 62, id 25381, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.48508 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x90a2), seq 262, ack 210, win 83, options [nop,nop,TS val 2162856304 ecr 3832858893], length 0
+17:32:43.508988 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::c866:62ff:fec8:9a6b > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): ca:66:62:c8:9a:6b
+	    0x0000:  ca66 62c8 9a6b
+17:32:44.013286 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::8c6c:e3ff:fea7:6ff > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): 8e:6c:e3:a7:06:ff
+	    0x0000:  8e6c e3a7 06ff
+17:32:45.302829 IP6 (hlim 255, next-header ICMPv6 (58) payload length: 16) fe80::ace3:96ff:fe0d:1a3a > ff02::2: [icmp6 sum ok] ICMP6, router solicitation, length 16
+	  source link-address option (1), length 8 (1): ae:e3:96:0d:1a:3a
+	    0x0000:  aee3 960d 1a3a
+17:32:48.365281 ARP, Ethernet (len 6), IPv4 (len 4), Request who-has 200.131.132.1 tell 200.131.132.10, length 28
+17:32:48.381804 ARP, Ethernet (len 6), IPv4 (len 4), Reply 200.131.132.1 is-at ca:66:62:c8:9a:6b, length 28
+17:32:49.179015 IP (tos 0x0, ttl 62, id 55026, offset 0, flags [DF], proto TCP (6), length 60)
+    143.107.231.1.37578 > 200.131.132.10.80: Flags [S], cksum 0x322b (correct), seq 59567546, win 42340, options [mss 1460,sackOK,TS val 2162862119 ecr 0,nop,wscale 9], length 0
+17:32:49.179039 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    200.131.132.10.80 > 143.107.231.1.37578: Flags [S.], cksum 0xc329 (incorrect -> 0x6137), seq 599254161, ack 59567547, win 43440, options [mss 1460,sackOK,TS val 3832864728 ecr 2162862119,nop,wscale 9], length 0
+17:32:49.192847 IP (tos 0x0, ttl 62, id 55027, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37578 > 200.131.132.10.80: Flags [.], cksum 0x3942 (correct), seq 1, ack 1, win 83, options [nop,nop,TS val 2162862152 ecr 3832864728], length 0
+17:32:49.193685 IP (tos 0x0, ttl 62, id 55028, offset 0, flags [DF], proto TCP (6), length 312)
+    143.107.231.1.37578 > 200.131.132.10.80: Flags [P.], cksum 0xc425 (incorrect -> 0xa49f), seq 1:261, ack 1, win 83, options [nop,nop,TS val 2162862154 ecr 3832864728], length 260: HTTP, length: 260
+	GET / HTTP/1.0
+	Host: 200.131.132.15
+	Accept: text/html, text/plain, text/sgml, text/css, application/xhtml+xml, */*;q=0.01
+	Accept-Encoding: gzip, compress, bzip2
+	Accept-Language: en
+	User-Agent: Lynx/2.8.9dev.16 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.5.17
+	
+17:32:49.193692 IP (tos 0x0, ttl 64, id 34276, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.37578: Flags [.], cksum 0xc321 (incorrect -> 0x382b), seq 1, ack 261, win 85, options [nop,nop,TS val 3832864743 ecr 2162862154], length 0
+17:32:49.196277 IP (tos 0x0, ttl 64, id 34277, offset 0, flags [DF], proto TCP (6), length 236)
+    200.131.132.10.80 > 143.107.231.1.37578: Flags [P.], cksum 0xc3d9 (incorrect -> 0xd5be), seq 1:185, ack 261, win 85, options [nop,nop,TS val 3832864745 ecr 2162862154], length 184: HTTP, length: 184
+	HTTP/1.0 200 OK
+	Server: SimpleHTTP/0.6 Python/3.6.9
+	Date: Fri, 09 May 2025 17:32:49 GMT
+	Content-type: text/html
+	Content-Length: 24
+	Last-Modified: Fri, 09 May 2025 15:52:38 GMT
+	
+17:32:49.196334 IP (tos 0x0, ttl 62, id 55029, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37578 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x3771), seq 261, ack 185, win 83, options [nop,nop,TS val 2162862156 ecr 3832864745], length 0
+17:32:49.196714 IP (tos 0x0, ttl 64, id 34278, offset 0, flags [DF], proto TCP (6), length 76)
+    200.131.132.10.80 > 143.107.231.1.37578: Flags [P.], cksum 0xc339 (incorrect -> 0x756f), seq 185:209, ack 261, win 85, options [nop,nop,TS val 3832864746 ecr 2162862156], length 24: HTTP
+17:32:49.196758 IP (tos 0x0, ttl 62, id 55030, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37578 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x3757), seq 261, ack 209, win 83, options [nop,nop,TS val 2162862157 ecr 3832864746], length 0
+17:32:49.197416 IP (tos 0x0, ttl 62, id 55031, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37578 > 200.131.132.10.80: Flags [F.], cksum 0xc321 (incorrect -> 0x3755), seq 261, ack 209, win 83, options [nop,nop,TS val 2162862158 ecr 3832864746], length 0
+17:32:49.198280 IP (tos 0x0, ttl 64, id 34279, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.37578: Flags [F.], cksum 0xc321 (incorrect -> 0x3751), seq 209, ack 262, win 85, options [nop,nop,TS val 3832864747 ecr 2162862158], length 0
+17:32:49.198339 IP (tos 0x0, ttl 62, id 55032, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37578 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x3753), seq 262, ack 210, win 83, options [nop,nop,TS val 2162862158 ecr 3832864747], length 0
+17:32:50.777715 IP (tos 0x0, ttl 62, id 8060, offset 0, flags [DF], proto TCP (6), length 60)
+    143.107.231.1.37592 > 200.131.132.10.80: Flags [S], cksum 0x8aaa (correct), seq 2410611395, win 42340, options [mss 1460,sackOK,TS val 2162863726 ecr 0,nop,wscale 9], length 0
+17:32:50.777735 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    200.131.132.10.80 > 143.107.231.1.37592: Flags [S.], cksum 0xc329 (incorrect -> 0x4c70), seq 2785659206, ack 2410611396, win 43440, options [mss 1460,sackOK,TS val 3832866327 ecr 2162863726,nop,wscale 9], length 0
+17:32:50.788458 IP (tos 0x0, ttl 62, id 8061, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37592 > 200.131.132.10.80: Flags [.], cksum 0x2486 (correct), seq 1, ack 1, win 83, options [nop,nop,TS val 2162863748 ecr 3832866327], length 0
+17:32:50.788491 IP (tos 0x0, ttl 62, id 8062, offset 0, flags [DF], proto TCP (6), length 312)
+    143.107.231.1.37592 > 200.131.132.10.80: Flags [P.], cksum 0x8fe5 (correct), seq 1:261, ack 1, win 83, options [nop,nop,TS val 2162863748 ecr 3832866327], length 260: HTTP, length: 260
+	GET / HTTP/1.0
+	Host: 200.131.132.15
+	Accept: text/html, text/plain, text/sgml, text/css, application/xhtml+xml, */*;q=0.01
+	Accept-Encoding: gzip, compress, bzip2
+	Accept-Language: en
+	User-Agent: Lynx/2.8.9dev.16 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.5.17
+	
+17:32:50.788498 IP (tos 0x0, ttl 64, id 55089, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.37592: Flags [.], cksum 0xc321 (incorrect -> 0x2375), seq 1, ack 261, win 85, options [nop,nop,TS val 3832866338 ecr 2162863748], length 0
+17:32:50.790761 IP (tos 0x0, ttl 64, id 55090, offset 0, flags [DF], proto TCP (6), length 236)
+    200.131.132.10.80 > 143.107.231.1.37592: Flags [P.], cksum 0xc3d9 (incorrect -> 0xca07), seq 1:185, ack 261, win 85, options [nop,nop,TS val 3832866340 ecr 2162863748], length 184: HTTP, length: 184
+	HTTP/1.0 200 OK
+	Server: SimpleHTTP/0.6 Python/3.6.9
+	Date: Fri, 09 May 2025 17:32:50 GMT
+	Content-type: text/html
+	Content-Length: 24
+	Last-Modified: Fri, 09 May 2025 15:52:38 GMT
+	
+17:32:50.790811 IP (tos 0x0, ttl 62, id 8063, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37592 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x22ba), seq 261, ack 185, win 83, options [nop,nop,TS val 2162863751 ecr 3832866340], length 0
+17:32:50.791227 IP (tos 0x0, ttl 64, id 55091, offset 0, flags [DF], proto TCP (6), length 76)
+    200.131.132.10.80 > 143.107.231.1.37592: Flags [P.], cksum 0xc339 (incorrect -> 0x60b9), seq 185:209, ack 261, win 85, options [nop,nop,TS val 3832866340 ecr 2162863751], length 24: HTTP
+17:32:50.791271 IP (tos 0x0, ttl 62, id 8064, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37592 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x22a2), seq 261, ack 209, win 83, options [nop,nop,TS val 2162863751 ecr 3832866340], length 0
+17:32:50.791755 IP (tos 0x0, ttl 62, id 8065, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37592 > 200.131.132.10.80: Flags [F.], cksum 0xc321 (incorrect -> 0x22a0), seq 261, ack 209, win 83, options [nop,nop,TS val 2162863752 ecr 3832866340], length 0
+17:32:50.792524 IP (tos 0x0, ttl 64, id 55092, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.37592: Flags [F.], cksum 0xc321 (incorrect -> 0x229b), seq 209, ack 262, win 85, options [nop,nop,TS val 3832866342 ecr 2162863752], length 0
+17:32:50.792578 IP (tos 0x0, ttl 62, id 8066, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37592 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x229c), seq 262, ack 210, win 83, options [nop,nop,TS val 2162863753 ecr 3832866342], length 0
+17:32:52.248500 IP (tos 0x0, ttl 62, id 42327, offset 0, flags [DF], proto TCP (6), length 60)
+    143.107.231.1.37608 > 200.131.132.10.80: Flags [S], cksum 0xced6 (correct), seq 1405547696, win 42340, options [mss 1460,sackOK,TS val 2162865197 ecr 0,nop,wscale 9], length 0
+17:32:52.248516 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    200.131.132.10.80 > 143.107.231.1.37608: Flags [S.], cksum 0xc329 (incorrect -> 0xf2ea), seq 3427285754, ack 1405547697, win 43440, options [mss 1460,sackOK,TS val 3832867798 ecr 2162865197,nop,wscale 9], length 0
+17:32:52.259722 IP (tos 0x0, ttl 62, id 42328, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37608 > 200.131.132.10.80: Flags [.], cksum 0xcb00 (correct), seq 1, ack 1, win 83, options [nop,nop,TS val 2162865219 ecr 3832867798], length 0
+17:32:52.259757 IP (tos 0x0, ttl 62, id 42329, offset 0, flags [DF], proto TCP (6), length 312)
+    143.107.231.1.37608 > 200.131.132.10.80: Flags [P.], cksum 0x365f (correct), seq 1:261, ack 1, win 83, options [nop,nop,TS val 2162865220 ecr 3832867798], length 260: HTTP, length: 260
+	GET / HTTP/1.0
+	Host: 200.131.132.15
+	Accept: text/html, text/plain, text/sgml, text/css, application/xhtml+xml, */*;q=0.01
+	Accept-Encoding: gzip, compress, bzip2
+	Accept-Language: en
+	User-Agent: Lynx/2.8.9dev.16 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.5.17
+	
+17:32:52.259763 IP (tos 0x0, ttl 64, id 54605, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.37608: Flags [.], cksum 0xc321 (incorrect -> 0xc9ee), seq 1, ack 261, win 85, options [nop,nop,TS val 3832867809 ecr 2162865220], length 0
+17:32:52.262013 IP (tos 0x0, ttl 64, id 54606, offset 0, flags [DF], proto TCP (6), length 236)
+    200.131.132.10.80 > 143.107.231.1.37608: Flags [P.], cksum 0xc3d9 (incorrect -> 0x6e81), seq 1:185, ack 261, win 85, options [nop,nop,TS val 3832867811 ecr 2162865220], length 184: HTTP, length: 184
+	HTTP/1.0 200 OK
+	Server: SimpleHTTP/0.6 Python/3.6.9
+	Date: Fri, 09 May 2025 17:32:52 GMT
+	Content-type: text/html
+	Content-Length: 24
+	Last-Modified: Fri, 09 May 2025 15:52:38 GMT
+	
+17:32:52.262063 IP (tos 0x0, ttl 62, id 42330, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37608 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0xc934), seq 261, ack 185, win 83, options [nop,nop,TS val 2162865222 ecr 3832867811], length 0
+17:32:52.262522 IP (tos 0x0, ttl 64, id 54607, offset 0, flags [DF], proto TCP (6), length 76)
+    200.131.132.10.80 > 143.107.231.1.37608: Flags [P.], cksum 0xc339 (incorrect -> 0x0733), seq 185:209, ack 261, win 85, options [nop,nop,TS val 3832867812 ecr 2162865222], length 24: HTTP
+17:32:52.262618 IP (tos 0x0, ttl 62, id 42331, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37608 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0xc91a), seq 261, ack 209, win 83, options [nop,nop,TS val 2162865223 ecr 3832867812], length 0
+17:32:52.263121 IP (tos 0x0, ttl 62, id 42332, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37608 > 200.131.132.10.80: Flags [F.], cksum 0xc321 (incorrect -> 0xc919), seq 261, ack 209, win 83, options [nop,nop,TS val 2162865223 ecr 3832867812], length 0
+17:32:52.263982 IP (tos 0x0, ttl 64, id 54608, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.37608: Flags [F.], cksum 0xc321 (incorrect -> 0xc915), seq 209, ack 262, win 85, options [nop,nop,TS val 3832867813 ecr 2162865223], length 0
+17:32:52.264046 IP (tos 0x0, ttl 62, id 42333, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37608 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0xc916), seq 262, ack 210, win 83, options [nop,nop,TS val 2162865224 ecr 3832867813], length 0
+17:32:53.652328 IP (tos 0x0, ttl 62, id 39007, offset 0, flags [DF], proto TCP (6), length 60)
+    143.107.231.1.37622 > 200.131.132.10.80: Flags [S], cksum 0xf679 (correct), seq 3831445228, win 42340, options [mss 1460,sackOK,TS val 2162866599 ecr 0,nop,wscale 9], length 0
+17:32:53.652347 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    200.131.132.10.80 > 143.107.231.1.37622: Flags [S.], cksum 0xc329 (incorrect -> 0xbaca), seq 1026237536, ack 3831445229, win 43440, options [mss 1460,sackOK,TS val 3832869201 ecr 2162866599,nop,wscale 9], length 0
+17:32:53.664983 IP (tos 0x0, ttl 62, id 39008, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37622 > 200.131.132.10.80: Flags [.], cksum 0x92dc (correct), seq 1, ack 1, win 83, options [nop,nop,TS val 2162866625 ecr 3832869201], length 0
+17:32:53.665776 IP (tos 0x0, ttl 62, id 39009, offset 0, flags [DF], proto TCP (6), length 312)
+    143.107.231.1.37622 > 200.131.132.10.80: Flags [P.], cksum 0xc425 (incorrect -> 0xfe3a), seq 1:261, ack 1, win 83, options [nop,nop,TS val 2162866626 ecr 3832869201], length 260: HTTP, length: 260
+	GET / HTTP/1.0
+	Host: 200.131.132.15
+	Accept: text/html, text/plain, text/sgml, text/css, application/xhtml+xml, */*;q=0.01
+	Accept-Encoding: gzip, compress, bzip2
+	Accept-Language: en
+	User-Agent: Lynx/2.8.9dev.16 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.5.17
+	
+17:32:53.665788 IP (tos 0x0, ttl 64, id 13681, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.37622: Flags [.], cksum 0xc321 (incorrect -> 0x91c7), seq 1, ack 261, win 85, options [nop,nop,TS val 3832869215 ecr 2162866626], length 0
+17:32:53.668826 IP (tos 0x0, ttl 64, id 13682, offset 0, flags [DF], proto TCP (6), length 236)
+    200.131.132.10.80 > 143.107.231.1.37622: Flags [P.], cksum 0xc3d9 (incorrect -> 0x3559), seq 1:185, ack 261, win 85, options [nop,nop,TS val 3832869218 ecr 2162866626], length 184: HTTP, length: 184
+	HTTP/1.0 200 OK
+	Server: SimpleHTTP/0.6 Python/3.6.9
+	Date: Fri, 09 May 2025 17:32:53 GMT
+	Content-type: text/html
+	Content-Length: 24
+	Last-Modified: Fri, 09 May 2025 15:52:38 GMT
+	
+17:32:53.668887 IP (tos 0x0, ttl 62, id 39010, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37622 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x910b), seq 261, ack 185, win 83, options [nop,nop,TS val 2162866629 ecr 3832869218], length 0
+17:32:53.669207 IP (tos 0x0, ttl 64, id 13683, offset 0, flags [DF], proto TCP (6), length 76)
+    200.131.132.10.80 > 143.107.231.1.37622: Flags [P.], cksum 0xc339 (incorrect -> 0xcf0a), seq 185:209, ack 261, win 85, options [nop,nop,TS val 3832869218 ecr 2162866629], length 24: HTTP
+17:32:53.669247 IP (tos 0x0, ttl 62, id 39011, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37622 > 200.131.132.10.80: Flags [.], cksum 0xc321 (incorrect -> 0x90f3), seq 261, ack 209, win 83, options [nop,nop,TS val 2162866629 ecr 3832869218], length 0
+17:32:53.669784 IP (tos 0x0, ttl 64, id 13684, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.37622: Flags [F.], cksum 0xc321 (incorrect -> 0x90ef), seq 209, ack 261, win 85, options [nop,nop,TS val 3832869219 ecr 2162866629], length 0
+17:32:53.670244 IP (tos 0x0, ttl 62, id 39012, offset 0, flags [DF], proto TCP (6), length 52)
+    143.107.231.1.37622 > 200.131.132.10.80: Flags [F.], cksum 0xc321 (incorrect -> 0x90ef), seq 261, ack 210, win 83, options [nop,nop,TS val 2162866630 ecr 3832869219], length 0
+17:32:53.670256 IP (tos 0x0, ttl 64, id 13685, offset 0, flags [DF], proto TCP (6), length 52)
+    200.131.132.10.80 > 143.107.231.1.37622: Flags [.], cksum 0xc321 (incorrect -> 0x90ed), seq 210, ack 262, win 85, options [nop,nop,TS val 3832869219 ecr 2162866630], length 0
